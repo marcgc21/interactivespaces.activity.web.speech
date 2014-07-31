@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<activity interactiveSpacesVersion="[1.0.0, 2.0.0)">
+  <name>Web Speech Activity Example</name>
+  <description>
+A web activity example which uses speech recognition to capture audio events. It uses web sockets to communicate between the Live Activity and the browser application.
+  </description>
+
+  <identifyingName>interactivespaces.activity.web.speech</identifyingName>
+  <version>1.0.0</version>
+
+</activity>
